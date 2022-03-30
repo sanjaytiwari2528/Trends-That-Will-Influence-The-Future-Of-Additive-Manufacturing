@@ -3,7 +3,6 @@ Over the last few years, 3D printing and additive manufacturing technology has a
 
 What is Additive Manufacturing? <br>
 Additive Manufacturing is defined as the process in which a material is coagulated or bonded, layer upon layer, under the control of a computer, to create a three-dimensional object. A 3D object is produced using digital model data from a computer-aided design (CAD) file or a 3D model. Additive manufacturing is a transformative approach to industrial production that enables the manufacture of lighter, stronger parts and systems. <br>
-
 Industrial <a href="https://www.exelus3d.com/services/additive-manufacturing/">additive manufacturing</a> is a game-changing production technology that is gaining momentum recently to achieve mass production. It has made additive manufacturing a production technology driving the next industrial revolution. There is a new wave of changes and advances in the field of additive manufacturing that will redefine the manufacturing sector and help it address many challenges. <br>
 
 Here are some areas that are going to shape the future of additive manufacturing: <br>
@@ -13,7 +12,6 @@ Thus, in the upcoming years, Additive Manufacturing will become a dominant route
 
 Digital Manufacturing <br>
 With time, the gap between software, printing, and production hardware is getting smaller and barriers keep falling one after another. This will help systems become more seamless in the production lines, whole supply chains as well as in new application areas. In recent years, the additive manufacturing (AM) industry has demonstrated that this can be achieved while maintaining the protection of intellectual property, ensuring quality production, and mitigating cyber security risks. <br>
-
 The adoption of digital manufacturing systems like additive manufacturing has enabled digital warehousing and on-demand production for spare parts. Thus, this will allow companies to reduce the costs that are usually associated with their after-sale operations while also creating new business opportunities that are focused on providing parts and services manufactured locally for consumers. <br>
 
 Automated Manufacturing Ecosystems <br>
